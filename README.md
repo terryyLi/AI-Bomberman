@@ -8,8 +8,16 @@ Players have many props which can increase hp or upgrade their bombs.
 This game has two modes: 2 players mode (press ‘9’) and AI mode (press ‘0’).
 
 ## To run the project
-install pygame library by `pip install pygame`
-and then run `python3 main.py`
+First install the pygame library:
+```bash
+pip install pygame
+```
+
+Then, run:
+
+```bash
+python3 main.py
+```
 
 ## Shortcut commands: 
 press ‘p’ to pause / unpause, if the game is over, press ‘r’ to restart. 
